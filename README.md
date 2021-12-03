@@ -1,0 +1,2 @@
+# politicaaibackend
+projeto politica ai 
